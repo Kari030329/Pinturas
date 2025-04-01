@@ -1,5 +1,5 @@
 
-##  👩‍💻
+##  Proyecto de gestion de base de datos de una tienda de pinturas👩‍💻
 Este sistema permite registrar, editar y eliminar pinturas utilizando el patrón de arquitectura Modelo-Vista-Controlador (MVC). Está diseñado para gestionar de manera eficiente la información de pinturas en una tienda.
 
 <a id='contents'></a>
@@ -80,8 +80,31 @@ El uso de una base de datos en una tienda de pinturas, junto con la correcta ges
 
 En conclusión, la integración de estas tecnologías no solo mejora la operatividad de la tienda, sino que también garantiza un acceso rápido y estructurado a los recursos electrónicos. Esto permite una administración eficaz y un servicio ágil para los usuarios, consolidando un entorno digital moderno y funcional.
 
-## Autor
-Desarrollado por [Rios Gomez Karina Rubi].
+## Autor👩‍💼
+Desarrollado por Rios Rubi.
+Ingeniero en paginas web con sólidos conocimientos en  desarrollo de software, diseño estructural, automatización, redes, etc. Cuento con habilidades en el manejo de lenguajes como java, javaScrip, python, css, HTML(este siendo un lenguaje de hipertexto),etc. así como una gran capacidad para la resolución de problemas y el trabajo en equipo.
+
+Me caracterizo por mi enfoque analítico, capacidad de adaptación y ganas de aprender. Busco una oportunidad para aplicar mis conocimientos en un entorno profesional, contribuir al desarrollo de proyectos innovadores y seguir creciendo en el campo de la ingeniería.
+
+🌍 Habilidades Blandas
+
+  -Trabajo en equipo y comunicación.
+  -Pensamiento analítico y resolución de problemas.
+  -Organización y gestión del tiempo
+  -Diseño de paginas web.
+  -Manejo de front-end.
+  -Diseño.
+
+  📌 Experiencia Académica y Proyectos
+
+Participacion en la optimizacion de una pagina web de una estacion meteorologia.
+
+🎯 Objetivo Profesional
+Busco integrarme a una empresa donde pueda desarrollar mis habilidades, aportar mis conocimientos en el campo de la programacion web y seguir aprendiendo de profesionales experimentados. Estoy interesado en áreas como desarrollo de software, diseño mecánico, diseño de redes,etc.
+
+📩 Contacto
+✉️ Correo: 211064204.tecnm.tlahuac.onmicrosoft.com
+
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Puedes utilizarlo y modificarlo libremente.<br>
