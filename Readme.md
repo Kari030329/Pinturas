@@ -1,6 +1,5 @@
-# Ejemplo MVC
 
-##  
+##  👩‍💻
 Este sistema permite registrar, editar y eliminar pinturas utilizando el patrón de arquitectura Modelo-Vista-Controlador (MVC). Está diseñado para gestionar de manera eficiente la información de pinturas en una tienda.
 
 <a id='contents'></a>
@@ -14,7 +13,7 @@ Este sistema permite registrar, editar y eliminar pinturas utilizando el patrón
 </ul>
   
 <a id='intro'></a>
-### Introdución.
+### Introdución.✍️
 
 En el desarrollo de aplicaciones web para la gestión de una tienda de pinturas, la base de datos juega un papel fundamental al almacenar información clave sobre los productos, como marcas, colores, precios y disponibilidad. Para acceder y manipular estos datos de manera eficiente, se utilizan peticiones URL que permiten a los clientes y administradores interactuar con el sistema a través de una interfaz web intuitiva.
 
@@ -24,7 +23,7 @@ Gracias a esta estructura, el sistema de la tienda de pinturas garantiza una nav
 <a href="#contents">Ir a Contenido.</a>
 
 <a id='Instalacion'></a>
-### Instalación
+### Instalación👩‍💻
 1. Clonar el repositorio en el servidor local:
    ```sh
    git clone https://github.com/usuario/pinturas.git
@@ -52,7 +51,7 @@ Gracias a esta estructura, el sistema de la tienda de pinturas garantiza una nav
 
 <a id='Arq'></a>
 
-## Arquitectura MVC
+## Arquitectura MVC✍️👩‍💻👩‍💼
 ### **Modelo (`modelo/PinturaModelo.php`):**
 Maneja las operaciones de base de datos, como:
 - Obtener todas las pinturas.
@@ -75,7 +74,7 @@ Se encarga de:
 <a href="#contents">Ir a Contenido.</a>
 
 <a id='conclusions'></a>
-### Conclusiones.
+### Conclusiones.✍️
 
 El uso de una base de datos en una tienda de pinturas, junto con la correcta gestión de peticiones URL, permite optimizar la organización y disponibilidad de los productos, asegurando una experiencia eficiente tanto para los clientes como para los administradores. A través del servidor web Apache y los archivos de acceso de hipertexto, el sistema puede responder dinámicamente a las solicitudes, mostrando información en tiempo real, gestionando el inventario y facilitando transacciones seguras.
 
